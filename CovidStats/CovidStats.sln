@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidStats", "CovidStats.csproj", "{4E360A1F-F25A-4796-973D-98013BF9A384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatsLibrary", "..\StatsLibrary\StatsLibrary.csproj", "{DBEAD7EF-BEF0-41DC-8403-18818E90E4A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E360A1F-F25A-4796-973D-98013BF9A384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E360A1F-F25A-4796-973D-98013BF9A384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E360A1F-F25A-4796-973D-98013BF9A384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E360A1F-F25A-4796-973D-98013BF9A384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEAD7EF-BEF0-41DC-8403-18818E90E4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEAD7EF-BEF0-41DC-8403-18818E90E4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEAD7EF-BEF0-41DC-8403-18818E90E4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEAD7EF-BEF0-41DC-8403-18818E90E4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1965601C-D704-415F-B2DF-FC18EC7E0F19}
+	EndGlobalSection
+EndGlobal
